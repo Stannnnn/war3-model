@@ -6,3 +6,4 @@
 !docs/optframes/optframesOut.js
 !docs/shim.js
 !third_party/decoder.js
+/node_modules

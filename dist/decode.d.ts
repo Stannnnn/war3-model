@@ -1,4 +1,4 @@
-import { BLPImage } from './blpimage';
+import { BLPImage } from "./blpimage";
 interface ImageDataLike {
     width: number;
     height: number;
